@@ -6,4 +6,6 @@
 
 
 ## Kullanım:
-> python AdamlarIPChanger.py
+'''
+python AdamlarIPChanger.py
+'''
