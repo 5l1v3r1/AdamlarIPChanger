@@ -6,6 +6,6 @@
 
 
 ## Kullanım:
-```shell
+```Shell
 python AdamlarIPChanger.py
 ```
