@@ -28,7 +28,7 @@ def Durdur():
 
 
 
-print "AdamlarIPChanger'a Hosgeldiniz\n"
+print "AdamlarIPChanger'a Hosgeldiniz - adamlaryazilim.com\n"
 
 print "IP Adresiniz: "
 os.system("curl http://icanhazip.com/")
